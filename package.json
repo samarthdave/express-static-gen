@@ -1,0 +1,19 @@
+{
+  "name": "express-static-gen",
+  "version": "1.0.0",
+  "description": "Create a basic blog or website with express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarthdave/express-static-gen.git"
+  },
+  "author": "Samarth Dave (https://samarthdave.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samarthdave/express-static-gen/issues"
+  },
+  "homepage": "https://github.com/samarthdave/express-static-gen#readme"
+}
